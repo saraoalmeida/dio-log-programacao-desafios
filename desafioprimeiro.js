@@ -1,5 +1,5 @@
 let nomeHeroi = "Docinho";
-let quantXp = 95000
+let quantXp = 9500
 
 let nivelHeroi;
 
